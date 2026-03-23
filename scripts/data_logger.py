@@ -21,7 +21,7 @@ def on_key_event(event):
 
 keyboard.on_press(on_key_event)
 
-label = 0   # 0 = Normal , 1 = Suspicious
+label = 0   #0=Nor,1=Sus
 
 try:
     while True:

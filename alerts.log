@@ -1,0 +1,61 @@
+2026-03-08 20:19:19 | Suspicion:71.0% | CPU:13.0% MEM:52.6% PROC:721 | Rate:0.00 Gap:0.000
+2026-03-08 20:19:24 | Suspicion:83.0% | CPU:24.0% MEM:52.8% PROC:724 | Rate:0.00 Gap:0.000
+2026-03-08 20:19:29 | Suspicion:73.0% | CPU:11.7% MEM:52.7% PROC:719 | Rate:0.00 Gap:0.000
+2026-03-08 20:19:34 | Suspicion:56.0% | CPU:12.1% MEM:52.7% PROC:720 | Rate:0.80 Gap:0.381
+2026-03-08 20:19:39 | Suspicion:60.0% | CPU:20.7% MEM:52.7% PROC:720 | Rate:0.40 Gap:0.408
+2026-03-08 20:19:44 | Suspicion:73.0% | CPU:10.1% MEM:52.9% PROC:722 | Rate:0.00 Gap:0.000
+2026-03-08 20:19:49 | Suspicion:61.0% | CPU:10.7% MEM:52.8% PROC:722 | Rate:10.20 Gap:0.278
+2026-03-08 20:19:54 | Suspicion:70.0% | CPU:11.5% MEM:52.9% PROC:722 | Rate:14.80 Gap:0.067
+2026-03-08 20:19:59 | Suspicion:69.0% | CPU:10.9% MEM:52.9% PROC:723 | Rate:1.80 Gap:0.098
+2026-03-08 20:20:04 | Suspicion:72.0% | CPU:5.5% MEM:52.9% PROC:723 | Rate:0.00 Gap:0.000
+2026-03-08 20:20:09 | Suspicion:90.0% | CPU:43.7% MEM:53.1% PROC:724 | Rate:22.80 Gap:0.124
+2026-03-08 20:20:14 | Suspicion:54.0% | CPU:2.3% MEM:53.1% PROC:724 | Rate:2.80 Gap:0.354
+2026-03-08 20:20:19 | Suspicion:58.0% | CPU:7.5% MEM:52.9% PROC:728 | Rate:4.80 Gap:0.209
+20:44:32 | HIGH RISK | Score:80.0% | CPU:7.3% MEM:53.6% PROC:839 | Rate:0.00 Gap:0.000
+20:44:37 | HIGH RISK | Score:80.0% | CPU:7.2% MEM:53.6% PROC:835 | Rate:0.00 Gap:0.000
+20:44:42 | HIGH RISK | Score:79.0% | CPU:1.0% MEM:53.5% PROC:836 | Rate:0.00 Gap:0.000
+20:59:44 | HIGH RISK | Score:82.0% | CPU:13.8% MEM:56.0% PROC:901 | Rate:0.00 Gap:0.000 Switch:0
+20:59:49 | HIGH RISK | Score:82.0% | CPU:13.8% MEM:56.1% PROC:900 | Rate:0.00 Gap:0.000 Switch:0
+20:59:54 | HIGH RISK | Score:93.0% | CPU:27.7% MEM:56.0% PROC:901 | Rate:0.00 Gap:0.000 Switch:1
+20:59:59 | HIGH RISK | Score:89.0% | CPU:27.4% MEM:58.2% PROC:901 | Rate:0.00 Gap:0.000 Switch:1
+21:00:04 | HIGH RISK | Score:89.0% | CPU:76.4% MEM:58.1% PROC:902 | Rate:0.00 Gap:0.000 Switch:1
+21:00:09 | HIGH RISK | Score:86.0% | CPU:18.4% MEM:58.2% PROC:902 | Rate:0.00 Gap:0.000 Switch:1
+21:00:14 | HIGH RISK | Score:80.0% | CPU:3.1% MEM:56.0% PROC:903 | Rate:0.00 Gap:0.000 Switch:0
+21:00:19 | HIGH RISK | Score:80.0% | CPU:0.8% MEM:56.0% PROC:903 | Rate:0.00 Gap:0.000 Switch:0
+21:00:44 | HIGH RISK | Score:94.0% | CPU:22.0% MEM:56.9% PROC:903 | Rate:0.00 Gap:0.000 Switch:0
+21:00:49 | HIGH RISK | Score:81.0% | CPU:4.4% MEM:57.2% PROC:905 | Rate:0.00 Gap:0.000 Switch:1
+21:00:54 | HIGH RISK | Score:90.0% | CPU:76.0% MEM:57.1% PROC:903 | Rate:0.00 Gap:0.000 Switch:0
+21:00:59 | HIGH RISK | Score:81.0% | CPU:13.7% MEM:57.1% PROC:904 | Rate:0.00 Gap:0.000 Switch:0
+21:01:04 | HIGH RISK | Score:81.0% | CPU:61.6% MEM:58.5% PROC:904 | Rate:3.00 Gap:0.233 Switch:0
+21:01:09 | HIGH RISK | Score:88.0% | CPU:33.9% MEM:57.1% PROC:905 | Rate:4.20 Gap:0.240 Switch:1
+21:01:14 | HIGH RISK | Score:80.0% | CPU:77.9% MEM:57.9% PROC:905 | Rate:3.60 Gap:0.285 Switch:1
+21:01:19 | HIGH RISK | Score:72.0% | CPU:10.7% MEM:57.6% PROC:909 | Rate:1.20 Gap:0.233 Switch:1
+21:09:33 | HIGH RISK | Score:80.0% | CPU:6.0% MEM:56.1% PROC:943 | Rate:0.00 Gap:0.000
+21:09:38 | HIGH RISK | Score:82.0% | CPU:9.8% MEM:56.1% PROC:944 | Rate:0.00 Gap:0.000
+21:09:43 | HIGH RISK | Score:93.0% | CPU:21.4% MEM:55.8% PROC:943 | Rate:0.00 Gap:0.000
+21:09:48 | HIGH RISK | Score:83.0% | CPU:8.9% MEM:55.4% PROC:943 | Rate:0.00 Gap:0.000
+21:09:53 | HIGH RISK | Score:64.0% | CPU:8.8% MEM:55.4% PROC:943 | Rate:0.40 Gap:0.313
+21:15:50 | HIGH RISK | Score:83.0% | CPU:13.5% MEM:57.1% PROC:969 | Rate:0.00 Gap:0.000 Switch:4
+21:15:56 | HIGH RISK | Score:71.0% | CPU:9.4% MEM:58.1% PROC:969 | Rate:0.00 Gap:0.000 Switch:2
+19:26:47 | MODERATE | Score:69.0% | CPU:24.0% MEM:53.4% PROC:348 | Rate:0.00 Gap:0.000 Switch:0
+19:27:44 | MODERATE | Score:65.0% | CPU:27.5% MEM:52.7% PROC:348 | Rate:0.00 Gap:0.000 Switch:0
+20:36:33 | HIGH RISK | Score:69.0% | CPU:18.1% MEM:51.5% PROC:656 | Rate:0.00 Gap:0.000 Switch:0
+20:36:40 | HIGH RISK | Score:69.0% | CPU:9.1% MEM:51.3% PROC:656 | Rate:0.00 Gap:0.000 Switch:0
+20:36:46 | HIGH RISK | Score:69.0% | CPU:9.3% MEM:51.4% PROC:660 | Rate:0.00 Gap:0.000 Switch:0
+20:36:52 | HIGH RISK | Score:69.0% | CPU:18.3% MEM:51.4% PROC:660 | Rate:0.00 Gap:0.000 Switch:0
+20:36:58 | HIGH RISK | Score:72.0% | CPU:8.3% MEM:51.4% PROC:660 | Rate:0.00 Gap:0.000 Switch:1
+20:37:05 | HIGH RISK | Score:68.0% | CPU:12.7% MEM:51.9% PROC:663 | Rate:20.80 Gap:0.037 Switch:0
+20:37:11 | HIGH RISK | Score:75.0% | CPU:22.4% MEM:52.0% PROC:666 | Rate:37.40 Gap:0.033 Switch:0
+20:37:17 | HIGH RISK | Score:67.0% | CPU:13.1% MEM:51.9% PROC:662 | Rate:36.20 Gap:0.034 Switch:0
+20:37:23 | HIGH RISK | Score:67.0% | CPU:14.8% MEM:52.0% PROC:662 | Rate:19.40 Gap:0.045 Switch:0
+20:37:29 | HIGH RISK | Score:69.0% | CPU:9.4% MEM:52.1% PROC:663 | Rate:0.00 Gap:0.000 Switch:0
+20:37:35 | HIGH RISK | Score:71.0% | CPU:7.1% MEM:51.9% PROC:659 | Rate:0.00 Gap:0.000 Switch:1
+20:47:20 | HIGH RISK | Score:68.0% | CPU:3.6% MEM:50.3% PROC:704 | Rate:0.00 Gap:0.000 Switch:0
+20:48:07 | HIGH RISK | Score:71.0% | CPU:16.3% MEM:50.4% PROC:705 | Rate:6.20 Gap:0.073 Switch:3
+21:22:39 | HIGH RISK | Score:69.0% | CPU:7.5% MEM:52.3% PROC:856 | Rate:0.00 Gap:0.000 Switch:0
+21:24:41 | HIGH RISK | Score:69.0% | CPU:13.8% MEM:52.5% PROC:865 | Rate:0.00 Gap:0.000 Switch:0
+21:36:45 | HIGH RISK | Score:80.0% | CPU:4.4% MEM:54.2% PROC:912 | Rate:0.00 Gap:0.000 Switch:0
+21:36:51 | HIGH RISK | Score:75.0% | CPU:20.7% MEM:54.3% PROC:922 | Rate:2.20 Gap:0.263 Switch:0
+21:36:57 | HIGH RISK | Score:80.0% | CPU:14.5% MEM:53.9% PROC:922 | Rate:0.00 Gap:0.000 Switch:0
+21:37:03 | HIGH RISK | Score:81.0% | CPU:12.9% MEM:53.7% PROC:922 | Rate:0.00 Gap:0.000 Switch:0
+21:37:09 | HIGH RISK | Score:81.0% | CPU:12.2% MEM:53.8% PROC:922 | Rate:0.00 Gap:0.000 Switch:0
